@@ -607,4 +607,7 @@ h3 {
     width: 400px;
     text-align: center;
 }
+.benefits .product-items .row>* {
+    width: 50%;
+}
 }
